@@ -1,0 +1,15 @@
+.menu {
+   margin: 2rem 3rem;
+}
+
+.menu button {
+   font-size: 1.1rem;
+   padding: 10px 8px;
+   border: none;
+   cursor: pointer;
+}
+
+.menu button:hover {
+   color: lightgray;
+   background-color: black;
+}
